@@ -15,7 +15,7 @@ nav{
     padding: 12.5px 16px;
     font-size: 16px;
     font-weight: bolder;
-    color:#FFFFFF;
+    color:#ffffff;
     justify-content: center;
     align-items: center;
     cursor: pointer;
@@ -40,4 +40,76 @@ a {
     cursor: pointer;
 }
 
+}
+main{
+    background-image: url('../assets/hero-bg.png');
+    max-width: 1600px;
+    max-height: 675px;
+    vertical-align: middle;  
+.banner .text1{
+    font-size: x-large;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-style: bold;
+    line-height: 50px;
+    justify-content: center;
+    /* display: flex; */
+    margin: 76px 295px 76px 295px;
+    color: #ffffff;
+} 
+}
+.banner .btn1{
+    font-size: medium;
+    font-family: "Inter", sans-serif;
+    padding: 8px 12px 8px 34px;
+    text-align: center;
+    color: #000000;
+    font-weight: 400px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #30B868;
+    border: none;
+.dot{
+   height: 10px;
+  width: 10px;
+  background-color: #30B868;
+  color: #81ffb5;
+  border-radius: 8px;
+  margin: 2px 6px 2px 12px; 
+  display:inline-block;
+  border: none ;
+}
+}
+.banner .text3{
+    color: rgb(164, 138, 6);
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 32px;
+    font-size: 23px;
+    display: block;
+    justify-content: center;
+}
+.banner .btn2{
+    color: #ffffff;
+    background-color: #30B868;
+    padding: 16px 46px 16px 46px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 250px;
+    margin: 32px 16px 179px 447px;
+    flex-direction: row;
+    cursor: pointer;
+}
+.banner .btn3{
+    max-width: 198px;
+    border-radius: 5px;
+    padding:16px 16px 16px 46px;
+    background-color: white;
+    /* text-align: center; */
+    opacity: 40%;
+    justify-content: center;
+    align-items: center;
+    margin: 32px 447px 179px 16px;
+    cursor: pointer;
 }
