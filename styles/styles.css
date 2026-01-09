@@ -42,10 +42,10 @@ a {
 
 }
 main{
-    background-image: url('../assets/hero-bg.png');
-    max-width: 1600px;
+     background-image: url('../assets/hero-bg.png'); 
+     max-width: 1600px;
     max-height: 675px;
-    vertical-align: middle;  
+    vertical-align: middle;   
 .banner .text1{
     font-size: x-large;
     font-family: "Inter", sans-serif;
@@ -113,3 +113,23 @@ main{
     margin: 32px 447px 179px 16px;
     cursor: pointer;
 }
+/* .Note .N1{
+    font-family: "Inter", sans-serif;
+    margin:0px 120px 16px 120px;
+    font-size: xx-large;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder; 
+
+}
+.Note .N2{
+    font-family: "Inter", sans-serif;
+    justify-content: center;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 19px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 44px;
+
+}*/
